@@ -45,3 +45,5 @@ holbertonschool-softy-pinko-docker/
 ├── task4/
 ├── task5/
 └── task6/
+
+## Author : Jana Alhazmi
